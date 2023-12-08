@@ -1,0 +1,56 @@
+.Titulli {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: monospace;
+    margin: 0 auto;
+}
+
+.label {
+    display: block;
+}
+
+.input {
+    display: block;
+    margin: 0 auto;
+    height: 2.5rem;
+    border-radius: 0.75rem;
+    font-size: 1.5rem;
+}
+
+.mbeshtjellsi {
+    background: #f4f4f4;
+    width: 30rem;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 0.75rem;
+}
+
+button {
+    background: rgb(33, 5, 243);
+    color: rgb(5, 5, 17);
+    height: 2.5rem;
+    width: 10rem;   
+    border-radius: 0.75rem;
+}
+
+button:hover {
+    background: red;
+}
+
+.rezultati {
+    background: #a4c2ae;
+    border-radius: 0.75rem;
+    padding: 0.75rem;
+    height: 12rem;
+}
+.butonat{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.75rem;
+}
